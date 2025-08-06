@@ -1,2 +1,2 @@
-# New-Repo
-First Repository
+# First Repository
+Author - Tejal Kaushik
