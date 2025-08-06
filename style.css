@@ -1,0 +1,25 @@
+#black{
+    background-color: black;
+    width: 152px;
+    height: 549px;
+}
+
+.t{
+    width: 148px;
+    height: 148px;
+    margin: 2px;
+    border-radius: 50%;
+}
+
+#red{
+    background-color: red;
+    
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#green{
+    background-color: green;
+}
